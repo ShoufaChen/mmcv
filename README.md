@@ -1,6 +1,6 @@
-mmcv==1.2.0 for pytorch 1.8+
+## mmcv==1.2.0 for pytorch 1.8+
 
-Add a patch: https://github.com/open-mmlab/mmcv/pull/882
+### Add a patch: https://github.com/open-mmlab/mmcv/pull/882
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/master/docs/mmcv-logo.png" width="300"/>
